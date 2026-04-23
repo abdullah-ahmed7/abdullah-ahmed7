@@ -1,11 +1,80 @@
-# Hi 👋 My name is Abdullah Ahmed
-🔭 I’m currently working on data science projects using Python and ML<br>👯 I’m looking to collaborate on open-source DS/ML projects<br>🤝 I’m looking for help with real-world datasets and model optimization<br>🌱 I’m currently learning Deep learning and MLOps<br>💬 Ask me about data analysis, Python, or cool ML tricks<br>⚡ Fun fact: I’m a car enthusiast who can talk horsepower all day!
+# 👋 Hi, I'm Abdullah Ahmed  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulllah.ahhmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-ahmed-3843b1365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpirTJ0tjTsewuasekdzimA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulllahahhmed@gmail.com) 
+Aspiring Data Scientist focused on building practical machine learning and data-driven applications using Python and real-world datasets.  
+Currently exploring **Deep Learning and MLOps**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+---
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🚀 Projects  
+
+🔹 **AI Smart Data Cleaner**  
+An interactive data cleaning tool that automates preprocessing tasks like handling missing values, outlier detection (IQR), normalization, and AI-based cleaning suggestions using Python, Pandas, and Streamlit.
+
+🔹 **ModernHospital Management System**  
+A full-stack healthcare management system built with Flask and SQL Server, supporting role-based access, patient records, appointments, billing, and hospital operations.
+
+🔹 **Speech Assistant Application**  
+A Windows Forms application with text-to-speech and speech-to-text capabilities, featuring real-time transcription, audio export, and secure user authentication.
+
+---
+
+## 🧠 Currently  
+
+- Building and optimizing machine learning models  
+- Exploring Deep Learning techniques  
+- Learning MLOps and deployment workflows  
+
+---
+
+## 🛠️ Skills  
+
+### ⚡ Core Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,git,github,linux,vscode" />
+</p>
+
+### 📊 Data Science & ML  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
+### 📊 Data Science & ML  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+
+### 🛠️ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+### 🎨 Design (Optional)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+## 🌐 Connect  
+
+[LinkedIn](https://www.linkedin.com/in/abdullah-ahmed-3843b1365)
