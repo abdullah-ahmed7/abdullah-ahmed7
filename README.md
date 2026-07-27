@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Ahmed  
+#  Abdullah Ahmed  
 
 Aspiring Data Scientist focused on building practical machine learning and data-driven applications using Python and real-world datasets.  
 Currently exploring **Deep Learning and MLOps**.
